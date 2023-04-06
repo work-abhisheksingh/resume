@@ -50,13 +50,13 @@ main {
 }
 
 #mainLeft {
-  width: 35%;
+  width: 100%;
   float: left;
   margin-right: 5%;
 }
 
 #mainRight {
-  width: 80%;
+  width: 100%;
   float: left;
 }
 
